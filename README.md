@@ -115,6 +115,20 @@ See [`DISCLAIMER.md`](DISCLAIMER.md) for the full scope and ethics statement.
 
 ---
 
+Yeah good one. Added:
+
+---
+
+## TODO
+
+- [ ] BB1 buffer sizing — find resize path or alternate dump route; required for raw 802.11 frame dump
+- [ ] Channel hopping — single-channel only right now
+- [ ] `set_oid` (`0x8BEF`) — kernel panics on unknown OIDs; right register knowledge opens big doors
+- [ ] Custom tooling integration — tcpdump only right now; aircrack-ng and others
+- [ ] Test on other connac2 devices beyond MT6639
+
+---
+
 ## References
 
 - MediaTek connac2 driver: `wlan_drv_gen4m_6878` (in-kernel, proprietary)
