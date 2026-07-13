@@ -12,7 +12,7 @@ The standard `cfg80211` interface does not advertise monitor mode for this chip.
 
 ## Capability Summary
 
-| Capability | Status | Method |
+| Capability | Status | Notes |
 |---|---|---|
 | Promiscuous Mode | `set_sw_ctrl` + tcpdump |
 | Hardware RF Monitor | `wifitest -r` (frame counts + RSSI) |
