@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "MT6639 (connac2) WiFi Monitor Mode & Frame Injection Research"
+authors:
+  - family-names: El-Belawy
+    given-names: Amir
+    orcid: https://orcid.org/0009-0001-2569-0103
+license: CC-BY-4.0
+repository-code: https://github.com/El-HOOT/MT6639-monitor-mode
+date-released: 2026-07-14
